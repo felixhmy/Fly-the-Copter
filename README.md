@@ -12,3 +12,7 @@ El objetivo del juego es el de ir avanzando a lo largo de la pantalla, esquivand
 Al darle al botón de play en el menú, pasamos a la pantalla de juego, la cual cuenta con un botón de pausa en caso de necesitar parar la partida, pero al darle a continuar, este volverá al estado anterior, justo donde se dejó.
 
 En caso de perder, se pasará a la pantalla de fin del juego, que te dará la opción de volver al menú de inicio para jugar otra partida.
+
+
+IMPORTANTE: Debido a que Android Studio no suele trabajar con C++, para abrir el proyecto desde Android Studio debe abrirse la carpeta con la ruta:
+Fly-the-Copter/proyect/android-studio-3.5
