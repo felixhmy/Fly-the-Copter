@@ -1,13 +1,3 @@
-/*
- * SPRITE
- * Copyright © 2022+ Félix Hernández Muñoz-Yusta
- *
- * Distributed under the Boost Software License, version  1.0
- * See documents/LICENSE.TXT or www.boost.org/LICENSE_1_0.txt
- *
- * felixhernandezmy@gmail.com
- */
-
 #ifndef SPRITE_HEADER
 #define SPRITE_HEADER
 
