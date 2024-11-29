@@ -1,3 +1,5 @@
+// Autor: felixhmy
+
 #ifndef MENU_SCENE_HEADER
 #define MENU_SCENE_HEADER
 
