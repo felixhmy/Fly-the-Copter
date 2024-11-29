@@ -1,13 +1,3 @@
-/*
- * INTRO SCENE
- * Copyright © 2022+ Félix Hernández Muñoz-Yusta
- *
- * Distributed under the Boost Software License, version  1.0
- * See documents/LICENSE.TXT or www.boost.org/LICENSE_1_0.txt
- *
- * felixhernandezmy@gmail.com
- */
-
 #include "Intro_Scene.hpp"
 #include "Menu_Scene.hpp"
 #include <basics/Canvas>
