@@ -1,3 +1,5 @@
+// Autor: felixhmy
+
 #ifndef INTRO_SCENE_HEADER
 #define INTRO_SCENE_HEADER
 
