@@ -1,3 +1,5 @@
+// Autor: felixhmy
+
 #ifndef GAME_SCENE_HEADER
 #define GAME_SCENE_HEADER
 
