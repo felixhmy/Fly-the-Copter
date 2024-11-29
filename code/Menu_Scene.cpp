@@ -1,3 +1,5 @@
+// Autor: felixhmy
+
 #include "Menu_Scene.hpp"
 #include "Game_Scene.hpp"
 #include <basics/Canvas>
