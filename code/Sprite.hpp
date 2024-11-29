@@ -1,3 +1,5 @@
+// Autor: felixhmy
+
 #ifndef SPRITE_HEADER
 #define SPRITE_HEADER
 
