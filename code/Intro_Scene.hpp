@@ -1,4 +1,5 @@
 // Autor: felixhmy
+// Todos los derechos reservados © 2025
 
 #ifndef INTRO_SCENE_HEADER
 #define INTRO_SCENE_HEADER

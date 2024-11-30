@@ -1,4 +1,5 @@
 // Autor: felixhmy
+// Todos los derechos reservados © 2025
 
 #ifndef GAME_SCENE_HEADER
 #define GAME_SCENE_HEADER

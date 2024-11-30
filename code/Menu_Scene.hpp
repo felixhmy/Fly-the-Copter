@@ -1,4 +1,5 @@
 // Autor: felixhmy
+// Todos los derechos reservados © 2025
 
 #ifndef MENU_SCENE_HEADER
 #define MENU_SCENE_HEADER

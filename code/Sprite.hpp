@@ -1,4 +1,5 @@
 // Autor: felixhmy
+// Todos los derechos reservados © 2025
 
 #ifndef SPRITE_HEADER
 #define SPRITE_HEADER

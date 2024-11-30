@@ -1,4 +1,5 @@
 // Autor: felixhmy
+// Todos los derechos reservados © 2025
 
 #include "Intro_Scene.hpp"
 #include "Menu_Scene.hpp"
