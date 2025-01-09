@@ -1,6 +1,6 @@
 # Fly-the-Copter
 
-Versión 1.0
+## Versión 1.0
 
 Mecánicas del juego:
 Las mecánicas del juego son muy simples. En primera instancia tenemos el menú de inicio con 2 botones, uno permite pasar a la pantalla de juego y jugar una partida y, la otra es un botón de ayuda que te explica los controles del juego.
@@ -16,3 +16,5 @@ En caso de perder, se pasará a la pantalla de fin del juego, que te dará la op
 
 IMPORTANTE: Debido a que Android Studio no suele trabajar con C++, para abrir el proyecto desde Android Studio debe abrirse la carpeta con la ruta:
 Fly-the-Copter/proyect/android-studio-3.5
+
+**Existe ya una versión compilada en APK funcional.**
