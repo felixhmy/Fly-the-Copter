@@ -1,20 +1,18 @@
 # Fly-the-Copter
 
-## Versión 1.0
+## Game Mechanics:
+The game mechanics are very simple. First, there is a start menu with 2 buttons: one allows you to go to the game screen and play a game, and the other is a help button that explains the game's controls.
 
-Mecánicas del juego:
-Las mecánicas del juego son muy simples. En primera instancia tenemos el menú de inicio con 2 botones, uno permite pasar a la pantalla de juego y jugar una partida y, la otra es un botón de ayuda que te explica los controles del juego.
+The game controls are based on tapping anywhere on the screen to make the helicopter ascend. When you stop tapping, it will automatically descend until you tap again.
 
-Los controles del juego se basan en el toque de cualquier parte de la pantalla para hacer ascender al helicóptero y al dejar de pulsar, este descenderá automáticamente hasta que volvamos a pulsar.
+The objective of the game is to advance across the screen, dodging the obstacles that appear and avoiding the ceiling and the floor by tapping the screen to ascend and releasing to descend.
 
-El objetivo del juego es el de ir avanzando a lo largo de la pantalla, esquivando chocar los obstáculos que aparecen y evitando tocar el techo y el suelo pulsando la pantalla para ascender y soltando para descender.
+When you press the play button in the menu, you are taken to the game screen, which has a pause button in case you need to stop the game. When you press continue, it will return to its previous state, exactly where you left off.
 
-Al darle al botón de play en el menú, pasamos a la pantalla de juego, la cual cuenta con un botón de pausa en caso de necesitar parar la partida, pero al darle a continuar, este volverá al estado anterior, justo donde se dejó.
-
-En caso de perder, se pasará a la pantalla de fin del juego, que te dará la opción de volver al menú de inicio para jugar otra partida.
+If you lose, you will be taken to the game over screen, which gives you the option to return to the main menu to play another game.
 
 
-IMPORTANTE: Debido a que Android Studio no suele trabajar con C++, para abrir el proyecto desde Android Studio debe abrirse la carpeta con la ruta:
+IMPORTANT: Because Android Studio does not typically work with C++, to open the project from Android Studio, you must open the folder with the path:
 Fly-the-Copter/proyect/android-studio-3.5
 
-**Existe ya una versión compilada en APK funcional.**
+**A functional, compiled APK version is already available.**
